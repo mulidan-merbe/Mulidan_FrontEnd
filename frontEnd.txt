@@ -1,3 +1,4 @@
 frontEnd Resolusi
 - konsisten belajar frontEnd kedepannya
 - mememahami dunia programmer
+- membuat app android dengan react js
