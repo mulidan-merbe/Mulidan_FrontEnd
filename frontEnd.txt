@@ -2,3 +2,4 @@ frontEnd Resolusi
 - konsisten belajar frontEnd kedepanny
 - membuat app android dengan react js
 - menjadi programmer handal
+- codeigniter 4
